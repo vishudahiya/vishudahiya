@@ -16,9 +16,4 @@ I am a Software Developer 👩‍💻.
 
 ## 💻 The machine I use
 
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![MacBook](https://img.shields.io/badge/MacBook-000000?style=for-the-badge&logo=apple&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
-
-## 🎮 Fun Fact
-
-I am an avid gamer and enjoy playing **PUBG** in my free time. Here's a fun fact about me:
-![Gaming GIF](https://media.giphy.com/media/1dX04I91dbbpa1v4J4/giphy.gif)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![MacBook](https://img.shields.io/badge/MacBook-000000?style=for-the-badge&logo=apple&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)

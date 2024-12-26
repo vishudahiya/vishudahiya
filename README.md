@@ -3,11 +3,6 @@
 
 I am a Software Developer 👩‍💻.
 
-## 📊 GitHub Stats
-
-![Vishal's GitHub stats](https://github-readme-stats.vercel.app/api?username=vishaldahiya1&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vishaldahiya1&layout=compact&theme=radical)
-
 ## 🔗 Connect with me
 
 <a href="https://https://www.linkedin.com/in/vishaldahiya1//">
@@ -23,4 +18,7 @@ I am a Software Developer 👩‍💻.
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![MacBook](https://img.shields.io/badge/MacBook-000000?style=for-the-badge&logo=apple&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 
+## 🎮 Fun Fact
 
+I am an avid gamer and enjoy playing **PUBG** in my free time. Here's a fun fact about me:
+![Gaming GIF](https://media.giphy.com/media/1dX04I91dbbpa1v4J4/giphy.gif)

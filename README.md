@@ -1,11 +1,11 @@
 
 # 🙏 नमस्कार, मैं विशाल
 
-I am a FrontEnd Developer 👩‍💻.
+I am a Software Developer 👩‍💻.
 
 ## 🔗 Connect with me
 
-<a href="https://www.linkedin.com/in/vishaldahiya1/">
+<a href="https://https://www.linkedin.com/in/vishaldahiya1//">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;
 
@@ -15,4 +15,4 @@ I am a FrontEnd Developer 👩‍💻.
 
 ## 💻 The machine I use
 
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![MacBook](https://img.shields.io/badge/MacBook-Available-brightgreen)

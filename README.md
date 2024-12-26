@@ -1,7 +1,9 @@
 
-# 🙏 नमस्कार, मैं विशाल
+# 🙏 Namaste, I'm Vishal
 
-I am a Software Developer 👩‍💻.
+🔭 I’m currently working as a Software Developer specializing in Backend and Microservices with Java and Spring Boot.
+
+💬 Ask me about Java, Spring Boot, Docker, MySQL, Microservices, and Cars 🤓
 
 ## 🔗 Connect with me
 

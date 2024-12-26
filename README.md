@@ -3,6 +3,11 @@
 
 I am a Software Developer 👩‍💻.
 
+## 📊 GitHub Stats
+
+![Vishal's GitHub stats](https://github-readme-stats.vercel.app/api?username=vishaldahiya1&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vishaldahiya1&layout=compact&theme=radical)
+
 ## 🔗 Connect with me
 
 <a href="https://https://www.linkedin.com/in/vishaldahiya1//">

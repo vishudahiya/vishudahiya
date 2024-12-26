@@ -15,5 +15,5 @@ I am a Software Developer 👩‍💻.
 
 ## 💻 The machine I use
 
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![MacBook](https://img.shields.io/badge/MacBook-Apple%20Mac%20OS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![MacBook](https://img.shields.io/badge/MacBook-?style=for-the-badge&logo=apple&logoColor=white)
 
